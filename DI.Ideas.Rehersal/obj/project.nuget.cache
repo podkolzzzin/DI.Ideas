@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "faipRjOnYz/U7RmQKlo3M0Vy3gf2G8QdUwGeQjienbSYs4BFs3RiQidaX5A3+BXaOg/79uxcBOJ7TxFXPA/amQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andriipodkolzin\\source\\repos\\DI.Ideas.Rehersal\\DI.Ideas.Rehersal\\DI.Ideas.Rehersal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\andriipodkolzin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
